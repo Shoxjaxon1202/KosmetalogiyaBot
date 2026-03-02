@@ -7,7 +7,7 @@ from telebot.types import (
 )
 
 TOKEN = "8459107764:AAGhzLfZKbjnuUkS58A76xTBO6EbpyGn2-g"
-OWNER_ID = 6411533078  
+OWNER_ID = 276901319  
 
 bot = telebot.TeleBot(TOKEN)
 
